@@ -18,7 +18,7 @@ max_profit_decrease = 0
 increase_month = 0
 decrease_month = 0
 average = 0
-change_average = 0
+
 
 
 with open(file,encoding="utf-8") as py_bank:
