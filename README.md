@@ -1,6 +1,6 @@
 Hello! 
 
-This repository contains 2 codes for 2 csv files. 
+This repository contains 2 codes that will each analyze a csv file. 
 
 Pypoll- This code allows you to interate through a list of voter results. It will pull a final result summary that includes total results, each canidate's results summary and the winner. This code will also export to a new csv file . 
 
